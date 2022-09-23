@@ -55,5 +55,4 @@ Me triying to walk after 10hours behind my computer
 ![Me triying to walk after 10hours behind my computer](https://media.giphy.com/media/du2blShdOu5pe/giphy.gif)
 
 and Me bringing my brain home after a day class
-![Me triying to walk after 10hours behind my computer](https://giphy.com/gifs/2ALKmeBxZ1j03tuC72)
-
+![Me triying to walk after 10hours behind my computer](https://media.giphy.com/media/Tdv2VSYVH9RAI/giphy.gif)
