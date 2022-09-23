@@ -33,7 +33,7 @@ Even if I have many dreams and aspirations, I want to stop living in projection 
 
 ## What you like most about working in a team :
 - discover each other's qualities, new ways of thinking and approaching situations, it's always inspiring.
-- see the potentialities of each one, look at the way they fit together and to observe that each one has its place. The group is a micropart of society so, that's interesting to observe it.
+- see the potentialities of each one, look at the way they fit together and observe that each one has its place. The group is a micropart of society so, that's interesting to observe it.
 - working hard but with fun !
 
 
