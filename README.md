@@ -28,7 +28,7 @@ create environments where people feel fine to allow the potential of everyone gr
 I am afraid of the frame and the flatness of things in my life and in the world. I am also afraid of formatting ideas, of being caught up in a flow that leaves no place for critical thinking and questioning. And sometimes, I am afraid that these ideas exclude me.
 
 ## Look forward to :
-Even if I have many dreams and aspirations, I want to stop living in projection of Me. So, to be appeased, laided down and satisfied with myself : try to be in the present would be already great !
+Even if I have many dreams and aspirations, I want to stop living in projection of Me. So, to be appeased, laided down and satisfied with myself : try to be in the present would be already great ! So, in the moment learning code is my goal.
 
 
 ## What you like most about working in a team :
