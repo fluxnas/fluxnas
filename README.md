@@ -55,6 +55,5 @@ Me triying to walk after 10hours behind my computer
 ![Me triying to walk after 10hours behind my computer](https://media.giphy.com/media/du2blShdOu5pe/giphy.gif)
 
 Me bringing my brain home after a day class   
-![My feelings when I resolve a coding problem. YAS QUEEN !](https://media.giphy.com/media/2ALKmeBxZ1j03tuC72/giphy-downsized-large.gif)
-
+![My feelings when I resolve a coding problem. YAS QUEEN !](https://giphy.com/gifs/2ALKmeBxZ1j03tuC72?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fstackedit.io%2F)
 
