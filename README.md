@@ -39,22 +39,22 @@ Even if I have many dreams and aspirations, I want to stop living in projection 
 
 #### I also got a personnal project named **[FLUXION3000](https://fluxion3000.com/ "yoga-art-fight project" )** !
 
-Me pointing at 8h59
+Me pointing at 8h59   
 ![Me pointing at 8h59](https://media.giphy.com/media/e5s9AhceLnmfe/giphy.gif)
  
-Me when “fatal error” knock the door
+Me when “fatal error” knock the door   
 ![Me when “fatal error” knock the door](https://media.giphy.com/media/H1cNXmg3dlFeM/giphy.gif)
  
-My eyes looking to “fatal error”
+My eyes looking to “fatal error”   
 ![My eyes looking to “fatal error”](https://media.giphy.com/media/BBNYBoYa5VwtO/giphy.gif)
 
-My feelings when I resolve a coding problem. YAS QUEEN !
+My feelings when I resolve a coding problem. YAS QUEEN !   
 ![My feelings when I resolve a coding problem. YAS QUEEN !](https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif)
 
-Me bringing my brain home after a day class
+Me bringing my brain home after a day class   
 ![Me bringing my brain home after a day class](https://media.giphy.com/media/2ALKmeBxZ1j03tuC72/giphy-downsized-large.gif)
 
-Me triying to walk after 10hours behind my computer
+Me triying to walk after 10hours behind my computer   
 ![Me triying to walk after 10hours behind my computer](https://media.giphy.com/media/du2blShdOu5pe/giphy.gif)
 
 
