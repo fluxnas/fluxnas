@@ -40,7 +40,7 @@ Even if I have many dreams and aspirations, I want to stop living in projection 
 #### I also got a personnal project named **[FLUXION3000](https://fluxion3000.com/ "yoga-art-fight project" )** !
 
 Me pointing at 8h59
-<iframe src="https://giphy.com/embed/e5s9AhceLnmfe" width="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Alt Text](https://giphy.com/embed/e5s9AhceLnmfe)
  
 Me when “fatal error” knock the door
 <iframe src="https://giphy.com/embed/H1cNXmg3dlFeM" width="480" height="287" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
