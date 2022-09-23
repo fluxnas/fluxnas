@@ -52,7 +52,7 @@ My feelings when I resolve a coding problem. YAS QUEEN !
 ![My feelings when I resolve a coding problem. YAS QUEEN !](https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif)
 
 Me bringing my brain home after a day class   
-![Me bringing my brain home after a day class](https://media.giphy.com/media/2ALKmeBxZ1j03tuC72/giphy-downsized-large.gif)
+![Me bringing my brain home after a day class ](https://media.giphy.com/media/2ALKmeBxZ1j03tuC72/giphy-downsized-large.gif)
 
 Me triying to walk after 10hours behind my computer   
 ![Me triying to walk after 10hours behind my computer](https://media.giphy.com/media/du2blShdOu5pe/giphy.gif)
