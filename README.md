@@ -15,7 +15,7 @@
  
  ## Things I love the most about this world :
 - pay attention to details, spend time making things look good :
-create environments where people feel fine for to allow the potential of everyone grow. it is vital for me to feel good where I am !
+create environments where people feel fine to allow the potential of everyone grow. it is vital for me to feel good where I am !
 - to be in movement physically and mentally by practicing yoga or boxe and also by feeling evolved and crossed by encounters that make me move !
 - my peugeot 205 ! It's a real true love story between us, we travel the world together !
 
