@@ -1,5 +1,3 @@
-![Cover](fluxnas/img/308132950_410520394367842_7473200746030509547_n.jpg)
-
 # Hanna Autajon Connier
 
 <em>**Web developer in way of development at [becode](https://becode.org/)**</em>
