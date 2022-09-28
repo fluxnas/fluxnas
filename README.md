@@ -2,10 +2,9 @@
 
 <em>**Web developer in way of development at [becode](https://becode.org/)**</em>
 
-> Opposites
+> Extrems
 > > Paradoxes
-> > > Extrems
-> > > > And space between that created possibility for things to emerge 
+> > > Opposites
 >
 > Yoga teacher, boxer and web developer in progress, that's a little bit of me !    
    
