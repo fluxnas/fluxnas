@@ -6,7 +6,7 @@
 > > Paradoxes
 > > > Opposites
 >
-> Yoga teacher, boxer and web developer in progress, that's a little bit of me
+> Yoga teacher, boxer and web developer in progress, that's a little bit of me   
 > And also I like creativity, ingenuity and finding solutions whatever the situation
    
 ## Three most surprising skills :
