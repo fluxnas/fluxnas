@@ -11,12 +11,11 @@
    
 ## Three most surprising skills :
  - **devoured reality :** I am eager to learn, to discover and to experience new things: from a parachute jump to diving in the depths of the matrix
- - **bounce back :** whatever the situation, whether good or bad, there is a lesson to be learned and a potential for evolution
+ - **bounce back :** whatever the situation, good or bad, there is a lesson and potential for evolution
  - **making the scorpion yoga posture !**
  
  ## Things I love the most about this world :
-- pay attention to details, spend time making things look good :
-create environments where people feel fine to allow the potential of everyone grow. it is vital for me to feel good where I am !
+- pay attention to details, spend time making things look good : create environments where people feel fine to allow the potential of everyone grow. it is vital for me to feel good where I am !
 - to be in movement physically and mentally by practicing yoga or boxe and also by feeling evolved and crossed by encounters that make me move !
 - my peugeot 205 ! It's a real true love story between us, we travel the world together !
 
