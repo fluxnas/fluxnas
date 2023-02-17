@@ -1,8 +1,8 @@
 # Hanna Autajon Connier
 
-_After a past in the artistic field, I took a decisive turn during lockdown and started to train myself as an autodidact. I continued this reconversion in the web development and I decided to professionalize this project. At the moment, I'm following an intensive 7 months training in web development at BeCode where I'm laying solid foundations for the future._   
-**I'm looking for an internship starting from april 2023.**   
-I like to challenge myself through reativity, ingenuity and finding solutions whatever the situation.   
+> _After a past in the artistic field, I took a decisive turn during lockdown and started to train myself as an autodidact. I continued this reconversion in the web development and I decided to professionalize this project. At the moment, I'm following an intensive 7 months training in web development at BeCode where I'm laying solid foundations for the future._   
+> **I'm looking for an internship starting from april 2023.**   
+> _I like to challenge myself through reativity, ingenuity and finding solutions whatever the situation._   
    
 ## Three most surprising skills :
  - **devoured reality :** I am eager to learn, to discover and to experience new things: from a parachute jump to diving in the depths of the matrix
