@@ -5,9 +5,9 @@
 
 ### What's up now ?
 - learning Web Dev in [BeCode](https://becode.org/)   
-- looking for ana intership from April !
+- looking for an intership from April !
  
-### hello hello 
+***
 _After a past in the artistic field, I took a decisive turn during lockdown and started to train myself as an autodidact. I continued this reconversion in the web development and I decided to professionalize this project. **At the moment, I'm following an intensive 7 months training in web development at BeCode** where I'm laying solid foundations for the future._   
 
 > _I like to challenge myself through creativity,    
