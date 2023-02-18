@@ -4,7 +4,7 @@
 [![mywebsite](https://github.com/fluxnas/fluxnas/blob/6f03205fd5ba2e36dd6c64f030a622bc6bf65c97/mywebsite-logo.png)](https://studio-3000.com/)
 
 ### What's up now ?
-- learning Web Dev in ![BeCode](https://becode.org/)   
+- learning Web Dev in [BeCode](https://becode.org/)   
 - looking for ana intership from April !
  
 ### hello hello 
