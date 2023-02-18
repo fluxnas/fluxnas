@@ -3,6 +3,11 @@
 [![linkedin](https://github.com/fluxnas/fluxnas/blob/6f03205fd5ba2e36dd6c64f030a622bc6bf65c97/linkedin-logo.png)](https://www.linkedin.com/in/hanna-connier-autajon/) 
 [![mywebsite](https://github.com/fluxnas/fluxnas/blob/6f03205fd5ba2e36dd6c64f030a622bc6bf65c97/mywebsite-logo.png)](https://studio-3000.com/)
 
+### What's up now ?
+- learning Web Dev in ![BeCode](https://becode.org/)   
+- looking for ana intership from April !
+ 
+### hello hello 
 _After a past in the artistic field, I took a decisive turn during lockdown and started to train myself as an autodidact. I continued this reconversion in the web development and I decided to professionalize this project. **At the moment, I'm following an intensive 7 months training in web development at BeCode** where I'm laying solid foundations for the future._   
 
 > _I like to challenge myself through creativity,    
