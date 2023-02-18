@@ -11,16 +11,16 @@ _After a past in the artistic field, I took a decisive turn during lockdown and 
 > whatever the situation there is a lesson and potential for evolution !_   
     
  ### 1. Things I love about this world 
-🌱 learn, discover and experience new things : from a parachute jump to diving in the depths of the matrix
-👣 be in movement physically and mentally ! 
-🏎 my peugeot 205 ! It's a real true love story between us, we travel the world together !
+🌱 learn, discover and experience new things : from a parachute jump to diving in the depths of the matrix   
+👣 be in movement physically and mentally !   
+🏎 my peugeot 205 ! It's a real true love story between us, we travel the world together !  
    
 ### 2. Things I love about working in a team :
-💎 discover each other's qualities, new ways of thinking and approaching situations, it's always inspiring.
-💬 see potentialities of each one, look how they fit together and observe that each one can find his place. 
-🥳 working hard but with fun !
+💎 discover each other's qualities, new ways of thinking and approaching situations, it's always inspiring  
+💬 see potentialities of each one, look how they fit together and observe that each one can find his place    
+🥳 working hard but with fun !   
 
-## ⚒️ my skills ⚒️
+### 3. my skills :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
