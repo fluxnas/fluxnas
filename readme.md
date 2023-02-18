@@ -10,15 +10,15 @@ _After a past in the artistic field, I took a decisive turn during lockdown and 
 > and finding solutions whatever the situation  
 > whatever the situation there is a lesson and potential for evolution !_   
     
- #### 💛 Things I love about this world 💛
-- **eager to learn, to discover and to experience new things** from a parachute jump to diving in the depths of the matrix
-- **be in movement physically and mentally** by practicing yoga or boxe and also by feeling evolved and crossed by encounters that make me move !
-- **my peugeot 205** ! It's a real true love story between us, we travel the world together !
+ ### 1. Things I love about this world 
+🌱 learn, discover and experience new things : from a parachute jump to diving in the depths of the matrix
+👣 be in movement physically and mentally ! 
+🏎 my peugeot 205 ! It's a real true love story between us, we travel the world together !
    
-## 👩‍💻 Things I love about working in a team 👩‍💻
-- discover each other's qualities, new ways of thinking and approaching situations, it's always inspiring.
-- see the potentialities of each one, look at the way they fit together and observe that each one has its place. The group is a micropart of society so, that's interesting to observe it.
-- working hard but with fun !
+### 2. Things I love about working in a team :
+💎 discover each other's qualities, new ways of thinking and approaching situations, it's always inspiring.
+💬 see potentialities of each one, look how they fit together and observe that each one can find his place. 
+🥳 working hard but with fun !
 
 ## ⚒️ my skills ⚒️
 
