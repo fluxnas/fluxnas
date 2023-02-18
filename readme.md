@@ -10,14 +10,22 @@ _After a past in the artistic field, I took a decisive turn during lockdown and 
 > and finding solutions whatever the situation.
 > whatever the situation, good or bad, there is a lesson and potential for evolution !_   
     
- ## 💛 Things I love the most about this world 💛
-- **pay attention to details**, spend time making things look good : create environments where people feel fine to allow the potential of everyone grow. it is vital for me to feel good where I am !
+ ## 💛 Things I love about this world 💛
+- **eager to learn, to discover and to experience new things** from a parachute jump to diving in the depths of the matrix
 - **be in movement physically and mentally** by practicing yoga or boxe and also by feeling evolved and crossed by encounters that make me move !
 - **my peugeot 205** ! It's a real true love story between us, we travel the world together !
    
-## 👩‍💻 What you like most about working in a team 👩‍💻
+## 👩‍💻 Things I love about working in a team 👩‍💻
 - discover each other's qualities, new ways of thinking and approaching situations, it's always inspiring.
 - see the potentialities of each one, look at the way they fit together and observe that each one has its place. The group is a micropart of society so, that's interesting to observe it.
 - working hard but with fun !
 
 ## ⚒️ my skills ⚒️
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
