@@ -7,10 +7,10 @@ _After a past in the artistic field, I took a decisive turn during lockdown and 
 
 > _I like to challenge myself through creativity,    
 > ingenuity    
-> and finding solutions whatever the situation.
-> whatever the situation, good or bad, there is a lesson and potential for evolution !_   
+> and finding solutions whatever the situation  
+> whatever the situation there is a lesson and potential for evolution !_   
     
- ## 💛 Things I love about this world 💛
+ #### 💛 Things I love about this world 💛
 - **eager to learn, to discover and to experience new things** from a parachute jump to diving in the depths of the matrix
 - **be in movement physically and mentally** by practicing yoga or boxe and also by feeling evolved and crossed by encounters that make me move !
 - **my peugeot 205** ! It's a real true love story between us, we travel the world together !
