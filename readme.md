@@ -8,7 +8,7 @@ _After a past in the artistic field, I took a decisive turn during lockdown and 
 > _I like to challenge myself through creativity,    
 > ingenuity    
 > and finding solutions whatever the situation  
-> whatever the situation there is a lesson and potential for evolution !_   
+> because there is always a lesson and potential for evolution !_   
     
  ### 1. Things I love about this world 
 🌱 learn, discover and experience new things : from a parachute jump to diving in the depths of the matrix   
