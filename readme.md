@@ -1,7 +1,7 @@
 # ![fluxnas](https://github.com/fluxnas/fluxnas/blob/baa41e476284375597b08b26504be91a98e0824d/github.jpg)
 
 [![linkedin](https://github.com/fluxnas/fluxnas/blob/509b8f5f792d9e1f1fe7ef5d3dd159d7b5102b11/linkedin.png)](https://www.linkedin.com/in/hanna-connier-autajon/) 
-[![mywebsite](https://github.com/fluxnas/fluxnas/blob/4da563cd7717a1b058616cc4077410f1155052f1/mywebsite)](https://studio-3000.com/)
+[![mywebsite](https://github.com/fluxnas/fluxnas/blob/45a72e8a862330424c4520273bf9c064d464bbdb/mywebsite.png)](https://studio-3000.com/)
 
 _After a past in the artistic field, I took a decisive turn during lockdown and started to train myself as an autodidact. I continued this reconversion in the web development and I decided to professionalize this project. At the moment, I'm following an intensive 7 months training in web development at BeCode where I'm laying solid foundations for the future._   
 
