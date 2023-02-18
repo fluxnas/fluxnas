@@ -1,4 +1,4 @@
-# ![fluxnas](https://github.com/fluxnas/fluxnas/blob/6a4cd38a69e967e512837d4814a15b96e27200d7/github.jpg)
+# ![fluxnas](https://github.com/fluxnas/fluxnas/blob/e35bc2e6b7196857a0a6e309cf486e3051c9f3c8/github.jpg)
 
 _After a past in the artistic field, I took a decisive turn during lockdown and started to train myself as an autodidact. I continued this reconversion in the web development and I decided to professionalize this project. At the moment, I'm following an intensive 7 months training in web development at BeCode where I'm laying solid foundations for the future._   
      
