@@ -3,9 +3,11 @@
 [![linkedin](https://github.com/fluxnas/fluxnas/blob/509b8f5f792d9e1f1fe7ef5d3dd159d7b5102b11/linkedin.png)](https://www.linkedin.com/in/hanna-connier-autajon/) 
 [![mywebsite](https://github.com/fluxnas/fluxnas/blob/45a72e8a862330424c4520273bf9c064d464bbdb/mywebsite.png)](https://studio-3000.com/)
 
-_After a past in the artistic field, I took a decisive turn during lockdown and started to train myself as an autodidact. I continued this reconversion in the web development and I decided to professionalize this project. At the moment, I'm following an intensive 7 months training in web development at BeCode where I'm laying solid foundations for the future._   
+_After a past in the artistic field, I took a decisive turn during lockdown and started to train myself as an autodidact. I continued this reconversion in the web development and I decided to professionalize this project. **At the moment, I'm following an intensive 7 months training in web development at BeCode** where I'm laying solid foundations for the future._   
 
-_I like to challenge myself through creativity, ingenuity and finding solutions whatever the situation._   
+_I like to challenge myself through creativity,    
+ingenuity    
+and finding solutions whatever the situation._   
    
 ## Three most surprising skills :
  - **devoured reality :** I am eager to learn, to discover and to experience new things: from a parachute jump to diving in the depths of the matrix
